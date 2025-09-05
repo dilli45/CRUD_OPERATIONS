@@ -21,3 +21,7 @@ The project connects to a MySQL database using the **JDBC connector** and allows
 - **MySQL Connector/J (JDBC Driver)**
 - **Eclipse IDE (or any Java IDE)**
 - **MySQL Workbench** (for database management)
+
+## Demo Video
+
+[Watch Demo Video](./demo.mkv)
