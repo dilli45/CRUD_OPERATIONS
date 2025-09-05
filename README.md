@@ -24,4 +24,6 @@ The project connects to a MySQL database using the **JDBC connector** and allows
 
 ## Demo Video
 
-[Watch Demo Video](./demo.mkv)
+https://github.com/user-attachments/assets/1f249f2b-c4f1-439b-9a33-d8658809304e
+
+
